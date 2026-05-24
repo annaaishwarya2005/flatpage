@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.bg1 {
+    background-color: #ffffff;
+    background-size: cover;
+    border-radius: 8px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 25px;
+}
+
+.set {
+    text-align: center;
+}
+
+.btn {
+    background-color: #f19116;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: #ffffff;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.heading {
+    color: #0f0e46;
+    font-size: 20px;
+}
+
+.heading1 {
+    color: #f19116;
+    font-size: 20px;
+    font-family: Bree Serif;
+    margin-top: 20px;
+}
+
+.para {
+    color: #7b8794;
+    font-size: 10px;
+    font-family: Bree Serif;
+}
+
+.bg2 {
+    background-color: #222222;
+    background-size: cover;
+}
+
+.bg3 {
+    background-color: #ffffff;
+    background-size: cover;
+    height: 200px;
+    width: 450px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 0px;
+    margin: 15px;
+}
+
+.image {
+    height: 200px;
+    width: 130px;
+}
+
+.heading2 {
+    font-family: Bree Serif;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.para1 {
+    font-size: 15px;
+    color: #7b8794;
+    font-family: Bree Serif;
+    margin-left: 10px;
+}
+
+.image1 {
+    height: 250px;
+    width: 480px;
+}
+
+.image2 {
+    height: 40px;
+    width: 40px;
+}
+
+.para2 {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 18px;
+}
+
+.set1 {
+
+    margin-left: 30px;
+}
+
+.set2 {
+    margin-right: 50px;
+}
+
+.btn1 {
+    background-color: #f19116;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: #ffffff;
+    padding: 10px;
+    margin-left: 150px;
+    height: 40px;
+    width: 100px;
+    margin-bottom: 70px;
+}
+
+.btn2 {
+    background-color: #f19116;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: #ffffff;
+    padding: 5px;
+    margin-left: 20px;
+    margin-bottom: 70px;
+    height: 40px;
+    width: 100px;
+}
